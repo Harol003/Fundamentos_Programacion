@@ -1,0 +1,1 @@
+system("PAUSE"); //Solo ponla si no te da error

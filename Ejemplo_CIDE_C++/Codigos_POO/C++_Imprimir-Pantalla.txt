@@ -1,0 +1,11 @@
+//CIDE 
+//Profesor HHTN
+//Ordena el número de números 
+#include<iostream>
+using namespace std;
+int main()
+{
+ cout<<"\n Harol Hernan Torres - CIDE - Programacion C++";
+ cout<<"\n Sentencias Iniciales";
+ return 0;
+}
